@@ -1,0 +1,70 @@
+body {
+  background-color: #D0E6FF;
+  background-image: url('images/bg_body.png');
+  background-repeat: no-repeat;
+  margin-top: 115px;
+  margin-left: 50px;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 45px;
+  font-family: arial-black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #AF967A;
+}
+
+div.main p:first-child {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  color: #6F94CF;
+  line-height: 30px;
+  font-size: 19px;
+  font-family: arial;
+  padding-left: 0;
+}
+
+div.main h2 {
+  background-image: url('images/bullet_flower.png');
+  background-repeat: no-repeat;
+  height: 45px;
+  padding-left: 80px;
+  font-family: times;
+  font-size: 33px;
+  color: #E2A05E;
+  border-bottom: 2px solid white;
+  line-height: 55px;
+}
+
+div.main p {
+  font-family: times;
+  padding-left: 80px;
+  margin-top: 5px;
+  line-height: 25px;
+  color: #616161;
+  font-size: 19px;
+}
+
+div.sidebar p {
+  color: #AF967A;
+  font-family: times;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+div.sidebar h2 {
+  font-family: times;
+  font-size: 33px;
+  color: #B1C3D7;
+}
+
+.main {
+  width: 540px;
+}
+
+.sidebar {
+  width: 150px;
+  margin-left: 550px;
+}
+

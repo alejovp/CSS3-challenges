@@ -1,0 +1,13 @@
+body {
+  font-family: arial;
+  font-size: 18px;
+  color: #B88100;
+  margin-left: 30px;
+}
+
+p {
+  border-left: 20px solid #B88100;
+  padding-left: 20px;
+  margin-left: 50px;
+  color: #F66600;
+}
